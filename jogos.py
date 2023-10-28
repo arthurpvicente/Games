@@ -7,7 +7,7 @@ print("*********************************")
 
 print("(1) Forca (2) Adivinhação")
 
-jogo = int(input("Qual jogo? "))
+jogo = int(input("Choose the game? "))
 
 if (jogo == 1):
     print("Jogando forca")
